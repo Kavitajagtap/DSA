@@ -1,4 +1,6 @@
-
+'''
+If array have repeating number then this array is very usefull
+'''
 
 def countSort(a):
     count = [0]*(max(a)+1)
