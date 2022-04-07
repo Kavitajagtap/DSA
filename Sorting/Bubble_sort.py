@@ -7,4 +7,4 @@ def bubbleSort(arr):
                 arr[j],arr[j+1] = arr[j+1],arr[j]
     return arr
 
-print(bubbleSort())
+print(bubbleSort([10,80,110,-110,-1,-67,89,1]))
