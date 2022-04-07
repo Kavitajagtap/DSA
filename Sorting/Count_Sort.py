@@ -1,5 +1,5 @@
 '''
-If array have repeating number then this array is very usefull
+If array have repeating number then this sorting technique is very useful.
 '''
 
 def countSort(a):
